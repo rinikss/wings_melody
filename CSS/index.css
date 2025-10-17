@@ -4,13 +4,31 @@ body {
   overflow-x: hidden;
   background-color: #fff8e1;
 }
-section {
+.block1 {
   width: 100%;
   height: 800px;
   margin: 0%;
+  background-image: url(/img/Group_49.svg);
+  background-size: cover;
+}
+.conteiner {
+  background-image: url(/img/Group_46.svg);
+  background-size: cover;
+}
+.wlcm_img {
+  width: 1114px;
+  height: 170px;
+  margin-left: 200px;
+  margin-top: 30px;
+}
+.rect {
+  width: 100%;
+  height: 570px;
+  margin-top: 30px;
+  background-color: #fb6107;
 }
 
-.wlcm_img {
+/* .wlcm_img {
   width: 1114px;
   height: 170px;
   margin-left: 200px;
@@ -22,8 +40,4 @@ section {
   height: 570px;
   margin-top: 30px;
   background-color: #fb6107;
-}
-.line_img {
-  width: 100%;
-  height: 1601;
-}
+} */
