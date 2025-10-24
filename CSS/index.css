@@ -3,6 +3,7 @@ body {
   width: 100%;
   overflow-x: hidden;
   background-color: #fff8e1;
+  font-family: "MontserratAlternates-Bold", "Montserrat-Medium";
 }
 .block1 {
   width: 100%;
@@ -14,18 +15,14 @@ body {
   width: 1114px;
   height: 170px;
   margin-left: 200px;
-  margin-bottom: -200px;
-}
-.rect {
-  width: 100%;
-  height: 570px;
-  margin-top: -1440px;
-  background-color: #fb6107;
+  margin-top: 30px;
 }
 
 .line_img {
   width: 100%;
+  margin-top: 30px;
 }
+
 /* .wlcm_img {
   width: 1114px;
   height: 170px;
