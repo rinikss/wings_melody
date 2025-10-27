@@ -92,9 +92,29 @@ body {
   margin-left: 422px;
 }
 .mission {
-  margin-left: 40px;
-
+  margin-left: 80px;
   width: 1360px;
+  margin-top: -283px;
+}
+.text_5 {
+  font-size: 22px;
+  font-family: "Montserrat-Medium";
+  color: #1d3d90;
+  line-height: 127%;
+  width: 432px;
+  height: 162px;
+  margin-left: 126px;
+  margin-top: -477px;
+}
+.text_6 {
+  font-size: 22px;
+  font-family: "Montserrat-Medium";
+  color: #1d3d90;
+  line-height: 127%;
+  width: 444px;
+  height: 135px;
+  margin-left: 960px;
+  margin-top: 140px;
 }
 
 /* .wlcm_img {
