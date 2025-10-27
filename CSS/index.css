@@ -114,9 +114,58 @@ body {
   width: 444px;
   height: 135px;
   margin-left: 960px;
-  margin-top: 140px;
+  margin-top: 53px;
 }
-
+.block4 {
+  width: 100%;
+  height: 820px;
+  margin: 0%;
+}
+.main_text_3 {
+  font-size: 70px;
+  color: #fb6107;
+  width: 800px;
+  height: 85px;
+  margin-left: 317px;
+  margin-right: 317px;
+  margin-top: 15px;
+  text-align: center;
+}
+.card_img_2 {
+  width: 100%;
+  height: 635px;
+  align-items: center;
+  margin-top: 65px;
+}
+.text_7 {
+  font-size: 20px;
+  font-family: "Montserrat-Medium";
+  color: #fb6107;
+  line-height: 127%;
+  width: 426px;
+  height: 26px;
+  margin-left: 197px;
+  margin-top: -580px;
+}
+.text_8 {
+  font-size: 20px;
+  font-family: "Montserrat-Medium";
+  color: #fb6107;
+  line-height: 127%;
+  margin-left: 197px;
+  width: 426px;
+  height: 54px;
+  margin-top: 112px;
+}
+.text_9 {
+  font-size: 20px;
+  font-family: "Montserrat-Medium";
+  color: #fb6107;
+  line-height: 127%;
+  margin-left: 197px;
+  width: 419px;
+  height: 27px;
+}
 /* .wlcm_img {
   width: 1114px;
   height: 170px
