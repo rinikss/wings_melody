@@ -228,6 +228,11 @@ body {
   text-align: center;
   margin-top: 30px;
 }
+.vinyl_img {
+  width: 100%;
+  height: 630px;
+  margin-top: 54px;
+}
 /* .wlcm_img {
   width: 1114px;
   height: 170px
